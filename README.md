@@ -56,9 +56,8 @@ flowchart LR
     E[Siamese Network Generates Embeddings]
     F[Compute Cosine Similarity]
     G[Apply Threshold Rules]
-    H[Update Target Embedding with EMA]
-    I[Draw Bounding Boxes]
-    J[Save Annotated Video]
+    H[Draw Bounding Boxes]
+    I[Save Annotated Video]
 
     A --> B
     B --> C
@@ -68,7 +67,6 @@ flowchart LR
     F --> G
     G --> H
     H --> I
-    I --> J
 ```
 
 ## Models Used
