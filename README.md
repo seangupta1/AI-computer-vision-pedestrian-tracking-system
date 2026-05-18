@@ -1,4 +1,4 @@
-# Deep Learning Single Pedestrian Tracking
+# Deep Learning Single Pedestrian Target Tracking
 
 Track a single pedestrian across an entire video using object detection and person re-identification.
 
