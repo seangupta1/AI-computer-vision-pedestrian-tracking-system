@@ -48,7 +48,7 @@ All other detected pedestrians are shown with green bounding boxes. The target i
 ## Pipeline Architecture
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[Select Target in First Frame]
     B[Compute Initial Embedding]
     C[Faster R-CNN Detects All People]
