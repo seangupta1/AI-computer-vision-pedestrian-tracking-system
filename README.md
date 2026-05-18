@@ -2,6 +2,19 @@
 
 Track a single pedestrian across an entire video using object detection and person re-identification.
 
+<div align="center">
+    <p><b>MOT16-01 Example Screenshot</b></p>
+    <img src="images/MOT16-01.png" alt="Tracking a single pedestrian" width="600">
+</div>
+
+<br><br>
+
+<div align="center">
+    <p><b>MOT16-07 Example Screenshot</b></p>
+    <img src="images/MOT16-07.png" alt="Tracking a single pedestrian" width="600">
+</div>
+
+
 ## Overview
 
 This project combines two deep learning models to track one selected pedestrian through every frame of a video.
